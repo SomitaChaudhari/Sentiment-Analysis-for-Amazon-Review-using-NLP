@@ -1,5 +1,5 @@
 ## Sentiment Analysis for Amazon Reviews
-***Natural Language Processing*** [![DOI](https://zenodo.org/badge/814169800.svg)](https://zenodo.org/doi/10.5281/zenodo.11987919)
+***Natural Language Processing*** |   [![DOI](https://zenodo.org/badge/814169800.svg)](https://zenodo.org/doi/10.5281/zenodo.11987919)
 
 
 **Project Description**: In the rapidly evolving landscape of e-commerce, businesses face the challenge of 
